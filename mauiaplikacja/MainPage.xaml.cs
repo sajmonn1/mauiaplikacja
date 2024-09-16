@@ -6,7 +6,7 @@
         {
             InitializeComponent();
         }
-private void OnCounterClicked(object sender, EventArgs e)
+        private void OnCounterClicked(object sender, EventArgs e)
         {
             // Tworzenie obiektu Random
             Random r = new Random();

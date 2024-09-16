@@ -8,7 +8,7 @@
             <Image Source="k6.jpg"
                    HeightRequest="185"
                    Aspect="AspectFit"
-                   SemanticProperties.Description="dot net bot in a race car number eight" />
+                   SemanticProperties.Description="kostka" />
 
             <Label Text="Wybierz rodzaj kostki"
                    Style="{StaticResource Headline}"
